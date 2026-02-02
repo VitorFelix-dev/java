@@ -8,6 +8,9 @@ public class CuboEQuadrado {
 		Scanner sc = new Scanner(System.in);
 		// TODO Auto-generated method stub
 		double N, Q, C;
+		// N = Número.
+		// Q = Quadrado.
+		// C = cubo.
 
 		System.out.println("[------------Programa da potência------------]\n");
 		System.out.println("Informe o número: ");
